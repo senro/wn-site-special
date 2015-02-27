@@ -19,7 +19,6 @@
   "license": "MIT",
   "spm": {
     "dependencies": {
-      "jquery": "1.8.3",
       "wn-alice-nav": "0.0.2"
     },
     "ignore": ["dist"]
