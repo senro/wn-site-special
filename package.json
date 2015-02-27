@@ -19,7 +19,7 @@
   "license": "MIT",
   "spm": {
     "dependencies": {
-      "wn-alice-nav": "0.0.2"
+      "wn-alice-nav": "0.0.3"
     },
     "ignore": ["dist"]
   }
