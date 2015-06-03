@@ -8,6 +8,6 @@ require.config({
 __COMPONENTS_INIT__
 
 /*自定义的js，遵循commonjs规范，即像写nodejs一样即可*/
-var $=require('jquery@1.8.3');
+var $=require('jquery@1.9.1');
 
 console.log($('.bg').length);
