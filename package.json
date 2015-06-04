@@ -19,7 +19,7 @@
   "license": "MIT",
   "spm": {
     "dependencies": {
-      "wn-9yin-nav": "0.0.7"
+      "wn-9yin-nav": "0.0.10"
     },
     "ignore": ["dist"]
   }
